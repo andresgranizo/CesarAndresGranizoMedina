@@ -1,6 +1,6 @@
 # E2E Tests
 
-[![CI]()
+[![CI](https://github.com/andresgranizo/CesarAndresGranizoMedina/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/CesarAndresGranizoMedina/actions/workflows/ci.yml)
 
 This repository contains E2E tests using Cypress for the web application [SauceDemo](https://www.saucedemo.com).
 
