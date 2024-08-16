@@ -12,7 +12,7 @@ This repository contains E2E tests using Cypress for the web application [SauceD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andresgranizo/SaucedemoTest.git
+   https://github.com/andresgranizo/CesarAndresGranizoMedina.git
 2. Install Dependencies
    * npm install
    * npm install cypress --save-dev
